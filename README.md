@@ -13,3 +13,6 @@ npx create-react-native-app -t with-router
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
 - [Request for Comments](https://github.com/expo/router/discussions/1)
+
+📝 Manifest: https://exp.host/@alanturing/jobs/index.exp?sdkVersion=48.0.0 Learn more: https://expo.fyi/manifest-url
+⚙️ Project page: https://expo.dev/@alanturing/jobs?serviceType=classic&distribution=expo-go
